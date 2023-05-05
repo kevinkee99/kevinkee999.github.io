@@ -1,0 +1,19 @@
+body {
+   background:
+       linear-gradient(to right, blue, transparent),
+       url(https://grainy-gradients.vercel.app/noise.svg);  
+}
+  
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+#myDiv{
+  background-color: white;
+  border-style: inset;
+  border-width:medium;
+  border-color: red;
+    
+   
+}
